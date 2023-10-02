@@ -17,5 +17,5 @@ I'm fueled by the belief that data has the power to transform industries, solve 
 📊 **Let's Connect:**
 I'm always excited to collaborate, learn, and share insights with fellow data enthusiasts, professionals, and organizations. Whether you're looking for a data-driven solution, seeking advice, or just want to connect, feel free to reach out. Together, we can explore the limitless possibilities that data has to offer!
 
-📧 siddharth24005@gmail.com
-🌐 [LinkedIn:](https://www.linkedin.com/in/siddharth-prajapati-0859501b7/)
+🌐 siddharth24005@gmail.com
+ 
