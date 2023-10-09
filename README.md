@@ -1,21 +1,29 @@
-📊 Aspiring Data Scientist and Operations Research Enthusiast 📈
+<h1 align="center">Hi 👋, I'm Siddharth Prajapati</h1>
+<h3 align="center">Passionate Data Analyst & Aspiring Data Scientist</h3>
 
-Hello there! 👋 I'm Sid, a passionate Data Analyst with a foundation in Operations Research. 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-🔍 **Data Analysis Expertise:**
-I bring a wealth of experience in data analysis, leveraging my expertise to unearth valuable insights from raw data using various tools like Power BI, Excel Spreadsheets, SQL, Python and R Programming languages.
 
-📈 **Data Science Aspiration:**
-Driven by an insatiable curiosity and an eagerness to push the boundaries of data-driven possibilities, I'm on a journey to become a Data Scientist. I'm constantly honing my skills in machine learning, predictive modeling, and data visualization to contribute to cutting-edge projects and innovations in the field.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-theanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="sid-theanalyst" /> </p>
 
-🔬 **Operations Research Background:**
-My academic background in Operations Research equips me with a solid foundation in optimization techniques, mathematical modeling, and decision analysis. I believe that these skills complement my data analytics prowess, enabling me to tackle real-world challenges with a holistic perspective.
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
-🚀 **What Drives Me:**
-I'm fueled by the belief that data has the power to transform industries, solve complex problems, and improve lives. Whether it's optimizing supply chains, enhancing customer experiences, or unraveling the mysteries of human behavior through data, I'm committed to making a positive impact through data-driven insights.
+- 👨‍💻 All of my projects are available at [https://github.com/Sid-TheAnalyst](https://github.com/Sid-TheAnalyst)
 
-📊 **Let's Connect:**
-I'm always excited to collaborate, learn, and share insights with fellow data enthusiasts, professionals, and organizations. Whether you're looking for a data-driven solution, seeking advice, or just want to connect, feel free to reach out. Together, we can explore the limitless possibilities that data has to offer!
+- 💬 Ask me about **How to do Data Cleaning, Exploratory Data Analysis, Create Visualizations using various tools like Excel, Power BI, SQL, Python and R**
 
-🌐 siddharth24005@gmail.com
- 
+- 📫 How to reach me **siddharth24005@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid-theanalyst&show_icons=true&locale=en&layout=compact" alt="sid-theanalyst" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid-theanalyst&show_icons=true&locale=en" alt="sid-theanalyst" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-theanalyst&" alt="sid-theanalyst" /></p>
+
