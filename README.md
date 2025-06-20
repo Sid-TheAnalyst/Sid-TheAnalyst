@@ -1,4 +1,3 @@
-![logo](https://github.com/Sid-TheAnalyst/Sid-TheAnalyst/blob/main/GitHub_Background.png)
 <h1 align="center">Hi 👋, I'm Siddharth Kamble</h1>
 <h3 align="center">Passionate Data Analyst & Aspiring Data Scientist</h3>
 
